@@ -36,3 +36,9 @@ A modern and responsive **Biccas Landing Page** built using **React.js and CSS**
 | 🔧 Git & GitHub | Version control |
 
 ---
+
+---
+🔗 Connect With Me
+
+💼 LinkedIn:
+[Kathirvel G](https://www.linkedin.com/in/kathirvel-gk/)
